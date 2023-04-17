@@ -1,0 +1,21 @@
+Good morning guys!
+
+Very sorry to say, but I cannot be with you today :(
+The surgery was yesterday evening and my wife and the baby must probably stay in hospital until sunday.
+It seems that everything went well so far and I am very happy about that. But I have to keep things
+up and running here, have to go to the hospital again and care for my older one..
+
+I hope you still made some progress on the project yesterday, so here I want to explain how to run the
+code I've written.
+
+Ignacio said, it's possible to run the main.py file from a jupyter-notebook but I don't know how this
+can be done. So maybe you can ask him helping you out...
+
+I just can describe my approach:
+
+1) Open a terminal
+2) Go to the directory where the 'main.py' file is located (Using cd command). It's in my project folder within the 'src' directory.
+3) Type 'python main.py' into your terminal and the song recommender should start
+
+This should work in the git-bash on windows and in the common mac terminal.
+I wish you all the best for the presentation and thanks for your sympathy!
